@@ -988,8 +988,8 @@ img:hover {
 /* Banner */
 
 	#banner {
-		background-color: #666666;
-		background-image: url("../images/banner3.jpg");
+		background-color: #f8f8f8;
+		/*background-image: url("../images/banner3.jpg");*/
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -1055,6 +1055,7 @@ img:hover {
 			font-size: 2em;
             font-weight: 400;
 			margin-bottom: 2em;
+			color: #edf5fa;
 		}
 
 			#banner p a {
